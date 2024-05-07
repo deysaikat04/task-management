@@ -10,9 +10,11 @@ Tech stack -
 
 `Tailwind CSS`
 
-`shadcn/cn`
+`shadcn/ui`
 
 ## How to run
+
+### Development mode
 
 `npm run dev`
 
